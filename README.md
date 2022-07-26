@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Famous3262
+- 👋 Hi, I’m Fadlinks
 - 👀 I’m interested in AI and robotics
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on AI and Robotics
